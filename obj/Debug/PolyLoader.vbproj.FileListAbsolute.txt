@@ -1,0 +1,72 @@
+C:\New folder (12)\PolyLoaderVB_wtheme_cleandump\obj\Debug\PolyLoader.vbprojResolveAssemblyReference.cache
+C:\New folder (12)\PolyLoaderVB_wtheme_cleandump\obj\Debug\PolyLoader.Form1.resources
+C:\New folder (12)\PolyLoaderVB_wtheme_cleandump\obj\Debug\PolyLoader.MDialog.resources
+C:\New folder (12)\PolyLoaderVB_wtheme_cleandump\obj\Debug\Resources.resources
+C:\New folder (12)\PolyLoaderVB_wtheme_cleandump\obj\Debug\PolyLoader.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\PolyLoaderVB_wtheme_cleandump1337\PolyLoaderVB_wtheme_cleandump\obj\Debug\Resources.resources
+C:\Users\Admin\Desktop\PolyLoaderVB_wtheme_cleandump1337\PolyLoaderVB_wtheme_cleandump\obj\Debug\PolyLoader.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\PolyLoaderVB_wtheme_cleandump1337\PolyLoaderVB_wtheme_cleandump\bin\Debug\PolyLoader Merged.exe
+C:\Users\Admin\Desktop\PolyLoaderVB_wtheme_cleandump1337\PolyLoaderVB_wtheme_cleandump\bin\Debug\PolyLoader Merged.pdb
+C:\Users\Admin\Desktop\PolyLoaderVB_wtheme_cleandump1337\PolyLoaderVB_wtheme_cleandump\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\Desktop\PolyLoaderVB_wtheme_cleandump1337\PolyLoaderVB_wtheme_cleandump\obj\Debug\PolyLoader Merged.exe
+C:\Users\Admin\Desktop\PolyLoaderVB_wtheme_cleandump1337\PolyLoaderVB_wtheme_cleandump\obj\Debug\PolyLoader Merged.pdb
+C:\Users\Admin\Desktop\PolyLoaderVB_wtheme_cleandump1337\PolyLoaderVB_wtheme_cleandump\obj\Debug\Form1.resources
+C:\New folder (12)\New folder (8)\obj\Debug\PolyLoader Merged.exe
+C:\New folder (12)\New folder (8)\obj\Debug\PolyLoader Merged.pdb
+C:\New folder (12)\New folder (8)\bin\Debug\PolyLoader Merged.exe
+C:\New folder (12)\New folder (8)\bin\Debug\PolyLoader Merged.pdb
+C:\New folder (12)\New folder (8)\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\New folder (12)\New folder (8)\obj\Debug\PolyLoader.vbprojResolveAssemblyReference.cache
+C:\New folder (12)\New folder (8)\obj\Debug\Form1.resources
+C:\New folder (12)\New folder (8)\obj\Debug\Resources.resources
+C:\New folder (12)\New folder (8)\obj\Debug\PolyLoader.vbproj.GenerateResource.Cache
+C:\polyloader\New folder (8)\obj\Debug\PolyLoader Merged.exe
+C:\polyloader\New folder (8)\obj\Debug\PolyLoader Merged.pdb
+C:\polyloader\New folder (8)\bin\Debug\PolyLoader Merged.exe
+C:\polyloader\New folder (8)\bin\Debug\PolyLoader Merged.pdb
+C:\polyloader\New folder (8)\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\polyloader\New folder (8)\obj\Debug\PolyLoader.vbprojResolveAssemblyReference.cache
+C:\polyloader\New folder (8)\obj\Debug\Form1.resources
+C:\polyloader\New folder (8)\obj\Debug\Resources.resources
+C:\polyloader\New folder (8)\obj\Debug\PolyLoader.vbproj.GenerateResource.Cache
+C:\polyloader\New folder (8)\obj\Debug\Form3.resources
+C:\Users\Admin\Desktop\silver_POLYLOADER\obj\Debug\PolyLoader Merged.exe
+C:\Users\Admin\Desktop\silver_POLYLOADER\obj\Debug\PolyLoader Merged.pdb
+C:\Users\Admin\Desktop\silver_POLYLOADER\bin\Debug\PolyLoader Merged.exe
+C:\Users\Admin\Desktop\silver_POLYLOADER\bin\Debug\PolyLoader Merged.pdb
+C:\Users\Admin\Desktop\silver_POLYLOADER\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\Desktop\silver_POLYLOADER\obj\Debug\Form1.resources
+C:\Users\Admin\Desktop\silver_POLYLOADER\obj\Debug\Form3.resources
+C:\Users\Admin\Desktop\silver_POLYLOADER\obj\Debug\Resources.resources
+C:\Users\Admin\Desktop\silver_POLYLOADER\obj\Debug\PolyLoader.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\silver_POLYLOADERfixed\bin\Debug\PolyLoader Merged.exe
+C:\Users\Admin\Desktop\silver_POLYLOADERfixed\bin\Debug\PolyLoader Merged.pdb
+C:\Users\Admin\Desktop\silver_POLYLOADERfixed\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\Desktop\silver_POLYLOADERfixed\obj\Debug\Form1.resources
+C:\Users\Admin\Desktop\silver_POLYLOADERfixed\obj\Debug\Form3.resources
+C:\Users\Admin\Desktop\silver_POLYLOADERfixed\obj\Debug\Resources.resources
+C:\Users\Admin\Desktop\silver_POLYLOADERfixed\obj\Debug\PolyLoader.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\silver_POLYLOADERfixed\obj\Debug\PolyLoader Merged.exe
+C:\Users\Admin\Desktop\silver_POLYLOADERfixed\obj\Debug\PolyLoader Merged.pdb
+C:\Users\Admin\Desktop\silver_POLYLOADERfixedv2\obj\Debug\PolyLoader Merged.exe
+C:\Users\Admin\Desktop\silver_POLYLOADERfixedv2\obj\Debug\PolyLoader Merged.pdb
+C:\Users\Admin\Desktop\silver_POLYLOADERfixedv2\bin\Debug\PolyLoader Merged.exe
+C:\Users\Admin\Desktop\silver_POLYLOADERfixedv2\bin\Debug\PolyLoader Merged.pdb
+C:\Users\Admin\Desktop\silver_POLYLOADERfixedv2\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\Desktop\silver_POLYLOADERfixedv2\obj\Debug\PolyLoader.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\silver_POLYLOADERfixedv2\obj\Debug\Form1.resources
+C:\Users\Admin\Desktop\silver_POLYLOADERfixedv2\obj\Debug\Form3.resources
+C:\Users\Admin\Desktop\silver_POLYLOADERfixedv2\obj\Debug\Resources.resources
+C:\Users\Admin\Desktop\silver_POLYLOADERfixedv2\obj\Debug\PolyLoader.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\silver_POLYLOADERfixedv3\obj\Debug\PolyLoader Merged.exe
+C:\Users\Admin\Desktop\silver_POLYLOADERfixedv3\obj\Debug\PolyLoader Merged.pdb
+C:\Users\Admin\Desktop\silver_POLYLOADERfixedv3\bin\Debug\PolyLoader Merged.exe
+C:\Users\Admin\Desktop\silver_POLYLOADERfixedv3\bin\Debug\PolyLoader Merged.pdb
+C:\Users\Admin\Desktop\silver_POLYLOADERfixedv3\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\Desktop\silver_POLYLOADERfixedv3\obj\Debug\Form1.resources
+C:\Users\Admin\Desktop\silver_POLYLOADERfixedv3\obj\Debug\Form3.resources
+C:\Users\Admin\Desktop\silver_POLYLOADERfixedv3\obj\Debug\Resources.resources
+C:\Users\Admin\Desktop\silver_POLYLOADERfixedv3\obj\Debug\PolyLoader.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\silver_POLYLOADERfixedv3\obj\Debug\PolyLoader.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Supersoaker-fpsmonitor\silver_POLYLOADERfixedv3\obj\Debug\PolyLoader Merged.exe
+C:\Users\Admin\Desktop\Supersoaker-fpsmonitor\silver_POLYLOADERfixedv3\obj\Debug\PolyLoader Merged.pdb
